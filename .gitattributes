@@ -1,0 +1,2 @@
+onelistforall.txt filter=lfs diff=lfs merge=lfs -text
+onelistforall_big.txt filter=lfs diff=lfs merge=lfs -text
